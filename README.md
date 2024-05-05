@@ -4,6 +4,9 @@ Welcome to the repository for the Custom Poster Generator project! This applicat
 
 ## 📌 Project Overview
 
+![app1 drawio](https://github.com/mucool123/Poster-Maker---AWS-Bedrock/assets/59078822/ce097dfe-103d-4ea2-9f02-896f8b724437)
+
+
 This project creates a system where users can generate custom posters by providing a creative prompt via a REST API. Here's a brief on how it functions:
 
 - **User Input**: The user provides a prompt describing their desired poster through a REST API.
