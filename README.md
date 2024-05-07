@@ -62,6 +62,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📫 Contact
 
-Your Name - gharpuremukul786@gmail.com
+Email - gharpuremukul786@gmail.com
 
 Project Link: [https://github.com/mucool123/Poster-Maker---AWS-Bedrock](https://github.com/mucool123/Poster-Maker---AWS-Bedrock)
